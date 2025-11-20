@@ -1,34 +1,37 @@
-## Hi there 👋
+ Hi 👋
 
-# 👋 ¡Hola! Soy Carolina Bibbo
+🌟 Hola, soy Caro Bibbo
 
-🎯 Desarrolladora web frontend en formación, apasionada por la tecnología, el diseño y el aprendizaje continuo.
-Me encanta crear sitios accesibles, visualmente atractivos y funcionales.
+Desarrolladora Web Frontend en formación, apasionada por la tecnología, el diseño y el aprendizaje continuo.
+Me encanta crear experiencias digitales accesibles, modernas y funcionales, cuidando siempre la estética y la usabilidad.
 
 ---
+🌱 Actualmente estoy…
 
-## 🌱 Actualmente estoy...
+📚 Estudiando la carrera de Desarrolladora Frontend en UNTREF.
 
-- 📚 Estudiando la carrera de **Desarrolladora Frontend** en Untref
-- 🧠 Realizando cursos en **Udemy** para complementar mis conocimientos
-- 🚀 Trabajando en proyectos personales para seguir aprendiendo
+🧠 Realizando cursos en Udemy para profundizar conocimientos.
 
+🚀 Trabajando en proyectos personales para mejorar mis habilidades día a día.
+
+⚛️ Aprendiendo React y Tailwind CSS.
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive-Design-009688?style=flat&logo=responsive&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-1a1a1a?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 
 ---
 
-## 💡 Objetivo
-
-🔍 Buscando mi **primera experiencia laboral en tecnología**, donde pueda aportar y seguir aprendiendo junto a un equipo.
+## 🎯 Objetivo
+Consolidarme como **desarrolladora web freelance**, creando sitios a medida para emprendimientos, marcas y proyectos personales.
 
 ---
 
