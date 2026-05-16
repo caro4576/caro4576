@@ -42,6 +42,8 @@ Consolidarme como **desarrolladora web freelance**, creando sitios a medida para
 
 - ✉️ **Email:** carojoamar@icloud.com  
 - 💼 **LinkedIn:** [caro-desarrolladora](https://www.linkedin.com/in/caro-desarrolladora)
+- [Instagram](https://instagram.com/soycarobibbo)
+-[WhatsApp](https://wa.me/5492266634460)
 
 ---
 
