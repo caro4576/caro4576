@@ -2,13 +2,13 @@
 
 🌟 Hola, soy Caro Bibbo
 
-Desarrolladora Web Frontend en formación, apasionada por la tecnología, el diseño y el aprendizaje continuo.
+Desarrolladora Web Frontend  , apasionada por la tecnología, el diseño y el aprendizaje continuo.
 Me encanta crear experiencias digitales accesibles, modernas y funcionales, cuidando siempre la estética y la usabilidad.
 
 ---
 🌱 Actualmente estoy…
 
-📚 Estudiando la carrera de Desarrolladora Frontend en UNTREF.
+📚 Estudiando la Diplomatura de Desarrolladora Backend en UNTREF.
 
 🧠 Realizando cursos en Udemy para profundizar conocimientos.
 
