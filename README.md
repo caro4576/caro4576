@@ -27,6 +27,9 @@ Me encanta crear experiencias digitales accesibles, modernas y funcionales, cuid
 ![Responsive](https://img.shields.io/badge/Responsive%20Design-1a1a1a?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=83CD29)
+![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
+
 
 ---
 
