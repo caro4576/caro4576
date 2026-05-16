@@ -8,7 +8,7 @@ Me encanta crear experiencias digitales accesibles, modernas y funcionales, cuid
 ---
 🌱 Actualmente estoy…
 
-📚 Estudiando la Diplomatura de Desarrolladora Backend en UNTREF.
+📚 Estudiando la Diplomatura de Programador Backend en UNTREF.
 
 🧠 Realizando cursos en Udemy para profundizar conocimientos.
 
