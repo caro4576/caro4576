@@ -1,65 +1,102 @@
- Hola, soy Carolina Bibbo
+# Hola, soy Carolina Bibbo 👋
 
-💻 Desarrolladora Web en formación continua, enfocada en la creación de sitios y aplicaciones web modernas, accesibles y funcionales.
-Combino conocimientos de desarrollo frontend con experiencia en organización, gestión de información y resolución de problemas, aplicando una mirada práctica a cada proyecto.
-Actualmente amplío mis conocimientos en desarrollo backend y tecnologías full stack, incorporando nuevas herramientas y buenas prácticas para construir soluciones web completas.
+💻 **Desarrolladora Web | Frontend & Backend | En formación continua**
 
-🚀 Actualmente
+Soy desarrolladora web en formación continua, con experiencia práctica en desarrollo Frontend y formación especializada en Backend.
 
-📚 Cursando la Diplomatura en Programación Backend en UNTREF.
+Actualmente estoy finalizando la **Diplomatura en Programación Backend en UNTREF**, trabajando con Node.js, Express, APIs REST y bases de datos.
 
-🧠 Realizando formación continua en JavaScript, React, Node.js y tecnologías del ecosistema web.
+Me interesa seguir creciendo dentro del área de tecnología, especialmente en desarrollo, testing y calidad de software. Disfruto aprender, resolver problemas y transformar necesidades concretas en soluciones funcionales.
 
-⚛️ Desarrollando proyectos con React y fortaleciendo conceptos de desarrollo frontend moderno.
+---
 
-🛠️ Construyendo proyectos personales y académicos para seguir incorporando experiencia práctica.
+## 🚀 Actualmente
 
-Tecnologías y herramientas
+📚 Finalizando la Diplomatura en Programación Backend en UNTREF.
 
-Frontend
+⚛️ Desarrollando proyectos con React y JavaScript.
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Tailwind CSS
-* Responsive Design
+🟢 Trabajando con Node.js, Express y APIs REST.
 
- Backend
+🗄️ Practicando con MongoDB, Mongoose y MySQL.
 
-* Node.js
-* Express.js
-* APIs REST
+🔎 Fortaleciendo conocimientos en testing y calidad de software.
 
-Herramientas
+🛠️ Construyendo proyectos personales y académicos para seguir adquiriendo experiencia práctica.
 
-* Git
-* GitHub
-* Visual Studio Code
-* Vercel
+---
 
-Proyectos
+## 🧰 Tecnologías y herramientas
 
-* Portfolio profesional
-* Sitio institucional para centro médico
-* Landing pages responsive
-* Aplicaciones desarrolladas con React
-* Proyectos académicos Full Stack
+### Frontend
 
-Objetivo Profesional
+- HTML5
+- CSS3
+- JavaScript ES6+
+- React
+- Bootstrap
+- Tailwind CSS
+- Sass / SCSS
+- Vite
+- Responsive Design
 
-Continuar desarrollándome en el área de desarrollo web, participando en proyectos que permitan aportar soluciones reales, adquirir experiencia profesional y consolidar un perfil full stack.
+### Backend
 
-📫 Contacto
+- Node.js
+- Express.js
+- APIs REST
+- MongoDB
+- Mongoose
+- MySQL
+
+### Testing y herramientas
+
+- Postman
+- Thunder Client
+- Git
+- GitHub
+- npm
+- Visual Studio Code
+
+### Deploy y plataformas
+
+- Vercel
+- Netlify
+- Hostinger
+- WordPress
+- Tiendanube
+- Shopify
+
+---
+
+## 📂 Proyectos
+
+- **Portfolio profesional**
+- **La Musa Incarnata** — Blog y proyecto e-commerce
+- **Sitio institucional para centro médico**
+- **Cotizador de Seguros** — React, Vite y Tailwind CSS
+- **Rick & Morty API** — Consumo de API y renderizado dinámico
+- **Festival de Música** — HTML, Sass y Responsive Design
+- **Proyectos Backend** — Node.js, Express, APIs y bases de datos
+
+---
+
+## 🎯 Objetivo Profesional
+
+Seguir desarrollándome dentro del área de tecnología, participando en proyectos donde pueda aportar mis conocimientos, adquirir experiencia profesional y continuar creciendo.
+
+Actualmente me interesa especialmente seguir explorando **testing y calidad de software**, además de continuar fortaleciendo mis conocimientos de Backend.
+
+---
+
+## 📫 Contacto
 
 ✉️ Email: [carojoamar@icloud.com](mailto:carojoamar@icloud.com)
 
-💼 LinkedIn: [www.linkedin.com/in/caro-desarrolladora](http://www.linkedin.com/in/caro-desarrolladora)
+💼 LinkedIn: [www.linkedin.com/in/caro-desarrolladora](https://www.linkedin.com/in/caro-desarrolladora)
 
-🌐 Portfolio: caro-bibbo-portfolio.vercel.app
+🌐 Portfolio: [caro-bibbo-portfolio.vercel.app](https://caro-bibbo-portfolio.vercel.app/)
 
-🐙 GitHub: github.com/caro4576
-
-Gracias por visitar mi perfil.
+🐙 GitHub: [github.com/caro4576](https://github.com/caro4576)
 
 
